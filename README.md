@@ -5,7 +5,7 @@
 # Nitin Rathour
 
 **Phone:** +91 9917xxxx66  
-**Email:** its.nitin.rathour@gmail.com, nitinrathour.nitin1522002@gmail.com  
+**Email:** [its.nitin.rathour@gmail.com](its.nitin.rathour@gmail.com), [nitinrathour_24dsc14@dtu.ac.in](nitinrathour_24dsc14@dtu.ac.in)   
 **Student ID:** 24/DSC/14  
 
 ---
