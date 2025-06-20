@@ -68,17 +68,17 @@ _March 2021 – April 2021_
 ---
 
 ## 🛠 Skills
-###Languages
+### Languages
 - C Programming
 - Python
 - SQL
 
-###Core Skills
+### Core Skills
 - Machine Learning
 - Statistics
 - Data Visualiation
 
-###Tools
+### Tools
 - Excel
 - Power BI
 - Jupyter Notebook
