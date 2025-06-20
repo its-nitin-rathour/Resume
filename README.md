@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://drive.google.com/file/d/1GKNUY-3o9BkEfFGrAi4yRBjjbERuwVcT/view?usp=sharing" alt="Nitin Rathour" width="120" />
+  <img src="https://github.com/its-nitin-rathour/Resume/blob/main/Img.jpg" alt="Nitin Rathour" width="120" />
 </p>
 
 # Nitin Rathour
