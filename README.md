@@ -5,7 +5,7 @@
 # Nitin Rathour
 
 **Phone:** +91 9917xxxx66  
-**Email:** [its.nitin.rathour@gmail.com](its.nitin.rathour@gmail.com), [nitinrathour_24dsc14@dtu.ac.in](nitinrathour_24dsc14@dtu.ac.in)   
+**Email:** its.nitin.rathour@gmail.com, nitinrathour_24dsc14@dtu.ac.in   
 **Student ID:** 24/DSC/14  
 
 ---
@@ -17,7 +17,7 @@
   2024–2026 | **CGPA:** 8.50
 
 - **B.E. (Computer Science & Engineering)**  
-  *Dr. Bhimrao Ambedkar University, Agra*  
+  *Institute of Engineering and Technology, Dr. Bhimrao Ambedkar University, Agra*  
   2019–2023 | **CGPA:** 7.32
 
 - **CBSE (Class XII)**  
@@ -36,7 +36,9 @@
 *Softpro India Computer Technologies (P) Ltd.*  
 _March 2021 – April 2021_
 
-- Learned core Python and libraries for data science.
+- Certificate in Python with data science
+- Learned the concepts of  Python with different libraries of Python
+- Concept of artificial intelligence and machine learning in hands-on experience.
 - Hands-on experience in AI and ML applications.
 
 ---
@@ -47,23 +49,24 @@ _March 2021 – April 2021_
 *Scikit-learn, Keras, Random Forest, Autoencoder, Isolation Forest*  
 [🔗 Project Link](https://github.com/its-nitin-rathour/Credit-Card-Fraud-Detection-using-Hybrid-Ensemble-Modeling)
 
-- Combined RF, Autoencoder, and Isolation Forest on imbalanced credit card data.
-- Tuned hybrid anomaly scores for optimal recall and F1-score.
-- Evaluated using ROC, PR curve, and confusion matrix.
+- Combined Random Forest, Autoencoder, and Isolation Forest to detect fraud in imbalanced credit card data.
+- Applied threshold tuning on hybrid anomaly scores to maximize recall and F1-score on imbalanced data.
+- Evaluated performance using ROC curve, Precision-Recall curve, and confusion matrix heatmap.
+
 
 ### Bank Loan Analysis Dashboard – Power BI  
 *Power BI, SQL Server, DAX*  
 [🔗 Dashboard Link](https://github.com/its-nitin-rathour/Bank-Loan-Analysis-Dashboard-Power-Bi)
 
-- Built dashboards for KPIs: funded amount, payments, interest, DTI.
-- Used DAX for MTD/MoM metrics and slicers.
-- Included charts by region, loan type, and borrower profiles.
+- Built interactive dashboards to track loan KPIs such as funded amount, received payments, interest rate, and DTI.
+- Used DAX to implement MTD and MoM calculations with slicers and custom visuals for deeper insights.
+- Designed summary, overview, and detail pages with charts to analyze trends by region, loan type, and borrower profile.
 
 ---
 
 ## 🏆 Academic Achievements
 
-- **GATE 2024 (CS & IT):** Scored 95.0 percentile
+- **GATE 2024 (CS & IT):** Achieved 95.0 %ile percentile in GATE 2024 (CS & IT),  demonstrating exceptional proficiency and expertise.
 
 ---
 
@@ -76,16 +79,13 @@ _March 2021 – April 2021_
 ### Core Skills
 - Machine Learning
 - Statistics
-- Data Visualiation
+- Data Visualization
+- Data Analytics
 
 ### Tools
 - Excel
 - Power BI
 - Jupyter Notebook
-
-| Languages        | Core Skills                                 | Tools                |
-|------------------|----------------------------------------------|----------------------|
-| C, Python, SQL   | Machine Learning, Statistics, Visualization | Excel, Power BI, Jupyter Notebook |
 
 ---
 
