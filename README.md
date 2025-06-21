@@ -5,6 +5,7 @@
 # Nitin Rathour
 
 **Phone:** +91 9917xxxx66  
+**Email** - rathour.nitin1522002@gmail.com 
 **Email:** its.nitin.rathour@gmail.com, nitinrathour_24dsc14@dtu.ac.in   
 **Student ID:** 24/DSC/14  
 
@@ -20,11 +21,11 @@
   *Institute of Engineering and Technology, Dr. Bhimrao Ambedkar University, Agra*  
   2019–2023 | **CGPA:** 7.32
 
-- **CBSE (Class XII)**  
+- **CBSE (Senior Secondary)**  
   *B. Dutt Saraswati Vidya Mandir, Rampur, U.P.*  
   2019 | **Percentage:** 79.6%
 
-- **CBSE (Class X)**  
+- **CBSE (Secondary)**  
   *B. Dutt Saraswati Vidya Mandir, Rampur, U.P.*  
   2017 | **CGPA:** 10
 
