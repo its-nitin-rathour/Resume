@@ -5,7 +5,6 @@
 # Nitin Rathour
 
 **Phone:** +91 9917xxxx66  
-**Email** - rathour.nitin1522002@gmail.com 
 **Email:** its.nitin.rathour@gmail.com, nitinrathour_24dsc14@dtu.ac.in   
 **Student ID:** 24/DSC/14  
 
@@ -64,11 +63,22 @@ _March 2021 – April 2021_
 - Designed summary, overview, and detail pages with charts to analyze trends by region, loan type, and borrower profile.
 
 ---
+## 🧠 Publication
+
+### The Intelligent Drive: Exploring AI in Electric and Autonomous Mobility  
+📎 [Link](#) | _NGNDAI-2025 (MNNIT Allahabad), Springer LNNS (Scopus Indexed)_
+
+- Conducted a detailed literature review on ML techniques for AV/EV systems, covering traffic forecasting, anomaly detection, and V2X communication.  
+- Explored emerging trends like federated learning, neuromorphic computing, and explainable AI in intelligent mobility.  
+- Accepted for presentation at NGNDAI-2025; selected for publication in Springer LNNS (Scopus/INSPEC indexed).
+
+
+---
 
 ## 🏆 Academic Achievements
 
 - **GATE 2024 (CS & IT):** Achieved 95.0 %ile percentile in GATE 2024 (CS & IT),  demonstrating exceptional proficiency and expertise.
-
+- Core team member of GATE Club, IET Agra; involved in organizing academic events and peer learning sessions.
 ---
 
 ## 🛠 Skills
