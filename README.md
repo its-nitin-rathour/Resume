@@ -30,16 +30,22 @@
 
 ---
 
-## 📜 Certification
+## 🛠 Skills
+### Languages
+- C Programming
+- Python
+- SQL
 
-**Python with Data Science**  
-*Softpro India Computer Technologies (P) Ltd.*  
-_March 2021 – April 2021_
+### Core Skills
+- Machine Learning
+- Statistics
+- Data Visualization
+- Data Analytics
 
-- Certificate in Python with data science
-- Learned the concepts of  Python with different libraries of Python
-- Concept of artificial intelligence and machine learning in hands-on experience.
-- Hands-on experience in AI and ML applications.
+### Tools
+- Excel
+- Power BI
+- Jupyter Notebook
 
 ---
 
@@ -72,7 +78,6 @@ _March 2021 – April 2021_
 - Explored emerging trends like federated learning, neuromorphic computing, and explainable AI in intelligent mobility.  
 - Accepted for presentation at NGNDAI-2025; selected for publication in Springer LNNS (Scopus/INSPEC indexed).
 
-
 ---
 
 ## 🏆 Academic Achievements
@@ -81,23 +86,17 @@ _March 2021 – April 2021_
 - **GATE CLUB:**
 - Core team member of GATE Club, IET Agra; involved in organizing academic events and peer learning sessions.
 ---
+## 📜 Certification
 
-## 🛠 Skills
-### Languages
-- C Programming
-- Python
-- SQL
+**Python with Data Science**  
+*Softpro India Computer Technologies (P) Ltd.*  
+_March 2021 – April 2021_
 
-### Core Skills
-- Machine Learning
-- Statistics
-- Data Visualization
-- Data Analytics
+- Certificate in Python with data science
+- Learned the concepts of  Python with different libraries of Python
+- Concept of artificial intelligence and machine learning in hands-on experience.
+- Hands-on experience in AI and ML applications.
 
-### Tools
-- Excel
-- Power BI
-- Jupyter Notebook
 
 ---
 
