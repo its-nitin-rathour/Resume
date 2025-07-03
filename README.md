@@ -78,6 +78,14 @@
 - Explored emerging trends like federated learning, neuromorphic computing, and explainable AI in intelligent mobility.  
 - Accepted for presentation at NGNDAI-2025; selected for publication in Springer LNNS (Scopus/INSPEC indexed).
 
+
+### A Threshold-Tuned Hybrid Ensemble for Credit Card Fraud Detection
+🔗 [Link](#) | 16th ICCCNT 2025, IIT Indore (IEEE, Scopus Indexed)
+
+- Developed a novel hybrid ensemble framework integrating Random Forest, Autoencoder, and Isolation Forest models without synthetic oversampling (SMOTE), optimized via threshold tuning.
+- Demonstrated robust performance on the imbalanced Kaggle credit card dataset, achieving 99.9% accuracy, 0.96 precision, 0.81 recall, 0.88 F1-score, and 0.97 ROC-AUC for fraud detection.
+- Accepted for presentation at ICCCNT 2025; selected for publication in IEEE Xplore (Scopus indexed).
+
 ---
 
 ## 🏆 Academic Achievements
