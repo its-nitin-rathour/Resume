@@ -92,6 +92,7 @@
 
 - **GATE 2024 (CS & IT):** Achieved 95.0 %ile percentile in GATE 2024 (CS & IT),  demonstrating exceptional proficiency and expertise.
 - **GATE CLUB:** Core team member of GATE Club, IET Agra; involved in organizing academic events and peer learning sessions.
+
 ---
 
 ## 📜 Certification
