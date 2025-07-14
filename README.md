@@ -55,9 +55,10 @@
 *Scikit-learn, Keras, Random Forest, Autoencoder, Isolation Forest*  
 [🔗 Project Link](https://github.com/its-nitin-rathour/Credit-Card-Fraud-Detection-using-Hybrid-Ensemble-Modeling)
 
-- Combined Random Forest, Autoencoder, and Isolation Forest to detect fraud in imbalanced credit card data.
-- Applied threshold tuning on hybrid anomaly scores to maximize recall and F1-score on imbalanced data.
-- Evaluated performance using ROC curve, Precision-Recall curve, and confusion matrix heatmap.
+- Built a hybrid model (Random Forest + Autoencoder + Isolation Forest) for imbalanced credit card fraud detection (284K+ records, 0.17% fraud).
+- Applied dynamic threshold tuning to hybrid scores, boosting fraud-class F1-score to 0.88 and AUC to 0.97.
+- Achieved precision of 0.96 and recall of 0.81, reducing false positives by 50% versus baselines.
+
 
 
 ### Bank Loan Analysis Dashboard – Power BI  
@@ -71,20 +72,20 @@
 ---
 ## 🧠 Publication
 
+### A Threshold-Tuned Hybrid Ensemble for Credit Card Fraud Detection
+🔗 [Link](#) | 16th ICCCNT 2025, IIT Indore (IEEE, Scopus Indexed)
+
+- Developed a novel hybrid ensemble framework integrating Random Forest, Autoencoder, and Isolation Forest models without synthetic oversampling (SMOTE), optimized via threshold tuning.
+- Demonstrated robust performance on the imbalanced Kaggle credit card dataset, achieving 99.9% accuracy, 0.96 precision, 0.81 recall, 0.88 F1-score, and 0.97 ROC-AUC for fraud detection.
+- Presented at the 16th ICCCNT 2025, IIT Indore; publication forthcoming in IEEE Xplore (Scopus indexed).
+
+
 ### The Intelligent Drive: Exploring AI in Electric and Autonomous Mobility  
 🔗 [Link](#) | _NGNDAI-2025 (MNNIT Allahabad), Springer LNNS (Scopus Indexed)_
 
 - Conducted a detailed literature review on ML techniques for AV/EV systems, covering traffic forecasting, anomaly detection, and V2X communication.  
 - Explored emerging trends like federated learning, neuromorphic computing, and explainable AI in intelligent mobility.  
 - Accepted for presentation at NGNDAI-2025; selected for publication in Springer LNNS (Scopus/INSPEC indexed).
-
-
-### A Threshold-Tuned Hybrid Ensemble for Credit Card Fraud Detection
-🔗 [Link](#) | 16th ICCCNT 2025, IIT Indore (IEEE, Scopus Indexed)
-
-- Developed a novel hybrid ensemble framework integrating Random Forest, Autoencoder, and Isolation Forest models without synthetic oversampling (SMOTE), optimized via threshold tuning.
-- Demonstrated robust performance on the imbalanced Kaggle credit card dataset, achieving 99.9% accuracy, 0.96 precision, 0.81 recall, 0.88 F1-score, and 0.97 ROC-AUC for fraud detection.
-- Accepted for presentation at ICCCNT 2025; selected for publication in IEEE Xplore (Scopus indexed).
 
 ---
 
