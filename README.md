@@ -64,8 +64,6 @@
 
 ---
 
-## 💻 Academic Projects  
-
 ---
 
 ### 🚨 Credit Card Fraud Detection using Hybrid Ensemble Modeling  
@@ -98,6 +96,24 @@
 - Modular, terminal-based student management system with **CRUD operations**.  
 - Integrated **CSV import/export, advanced search, bulk actions, automated reporting**.  
 - Showcased **database integration, clean code structure, and user-centric CLI design**.  
+
+</details>  
+
+---
+
+### 🤖 AI Travel Agent with LangGraph  
+[![Github](https://img.shields.io/badge/Github-Repo-181717?logo=github&logoColor=white)](https://github.com/its-nitin-rathour/Travel-Booking-Assistant)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-00A3E0) 
+![LangGraph](https://img.shields.io/badge/LangGraph-FF5733) 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)  
+
+<details>
+<summary>✨ <b>Click to view highlights</b></summary>
+
+- Engineered an AI-powered travel assistant automating flight search, hotel booking, and itinerary creation to streamline trip planning.  
+- Implemented stateful interactions and human-in-the-loop validation to ensure context-aware responses and user-approved travel emails.  
+- Optimized multi-LLM task handling for tool invocation, summarization, and email drafting, enhancing accuracy and efficiency.  
 
 </details>  
 
@@ -205,6 +221,43 @@
 - Used a **custom PromptTemplate** + chat history for context-aware responses.  
 
 </details>  
+
+---
+
+### 🕺 Human Activity Recognition using CNN-LSTM and Pose Estimation  
+[![Github](https://img.shields.io/badge/Github-Repo-181717?logo=github&logoColor=white)](https://github.com/its-nitin-rathour/Human-Activity-Recognition-using-CNN-LSTM-and-Pose-Estimation)  
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00BFFF) 
+![YOLO11](https://img.shields.io/badge/YOLO11-FF6347) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8) 
+![CNN-LSTM](https://img.shields.io/badge/CNN--LSTM-FF1493)  
+
+<details>
+<summary>✨ <b>Click to view highlights</b></summary>
+
+- Extracted pose keypoints from 10K+ video sequences and 50K images using YOLO11 and MediaPipe.  
+- Built a CNN-LSTM model achieving 92% accuracy on benchmark human activity datasets.  
+- Reached 0.90 precision and 0.88 recall, showcasing robust spatio-temporal feature learning.  
+
+</details>  
+
+---
+
+### ⏱ RealtimeTaskScheduler – OS-Level Task Scheduler  
+[![Github](https://img.shields.io/badge/Github-Repo-181717?logo=github&logoColor=white)](https://github.com/its-nitin-rathour/RealtimeTaskScheduler-OS-Level-Task-Scheduler)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) 
+![Threads](https://img.shields.io/badge/Threads-228B22) 
+![STL](https://img.shields.io/badge/STL-800080)  
+
+<details>
+<summary>✨ <b>Click to view highlights</b></summary>
+
+- Engineered a multithreaded task scheduler in C++ with priority-based scheduling and aging to simulate OS-level process management.  
+- Handled 10+ concurrent tasks using 4 worker threads, ensuring race-free execution with mutexes, condition variables.  
+- Achieved <50ms average task dispatch time with optimized scheduling and modular design (4+ components).  
+
+</details>  
+
+
 
 
 
