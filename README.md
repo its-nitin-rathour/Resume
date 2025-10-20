@@ -273,7 +273,7 @@
 
 
 ### The Intelligent Drive: Exploring AI in Electric and Autonomous Mobility  
-🔗 [View](https://www.ngndai.mnnit.ac.in/) | _NGNDAI-2025 (MNNIT Allahabad), Springer LNNS (Scopus Indexed)_
+🔗 [View](https://drive.google.com/file/d/1nQIDXhUYyBSX1Sa_ZwytXArUjqGY0ANd/view?usp=drivesdk) | _NGNDAI-2025 (MNNIT Allahabad), Springer LNNS (Scopus Indexed)_
 
 - Conducted a detailed literature review on ML techniques for AV/EV systems, covering traffic forecasting, anomaly detection, and V2X communication.  
 - Explored emerging trends like federated learning, neuromorphic computing, and explainable AI in intelligent mobility.  
